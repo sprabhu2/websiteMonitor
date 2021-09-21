@@ -12,5 +12,5 @@ To run the application
 1. Checkout the code
 2. npm install
 3. node server.js
-4. Once the application is running, call monitoring service using http://localhost:4000/:frequenceInSecond
+4. Once the application is running, call monitoring service using http://localhost:4000/:frequencyInSecond
 
